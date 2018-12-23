@@ -1,2 +1,11 @@
+# React, React Router, Webpack - Code Splitting
+
+Simple example for creating code splitting using React Router
+
+## Description
+
 react boiler plate with code splitting functionality
-https://manendrarawat.github.io/react-webpack-codesplitting/#/
+
+## Live Sample
+
+- https://manendrarawat.github.io/react-webpack-codesplitting/#/
